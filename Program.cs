@@ -1,6 +1,6 @@
 ﻿var watch = System.Diagnostics.Stopwatch.StartNew();
 
-Day1.PartB();
+Day4.PartA();
 
 watch.Stop();
 
